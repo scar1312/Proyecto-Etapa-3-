@@ -1,0 +1,14 @@
+codigo,nombre,categoria,stock,stock_minimo,precio_compra,precio_venta,fecha_vencimiento
+CAM001,Camiseta básica negra M,Camisetas,30,8,5500.0,9900.0,
+CAM002,Camiseta básica blanca L,Camisetas,4,8,5500.0,9900.0,
+CAM003,Polo piqué beige M,Camisetas,18,6,8500.0,14900.0,
+PAN001,Jeans slim azul talla 32,Pantalones,25,8,13500.0,24900.0,
+PAN002,Jeans slim negro talla 34,Pantalones,3,8,13500.0,24900.0,
+PAN003,Pantalón chino café 32,Pantalones,14,5,11000.0,19900.0,
+CAL001,Tenis blancos talla 42,Calzado,10,4,22000.0,39900.0,
+CAL002,Mocasín cuero talla 41,Calzado,4,4,25000.0,44900.0,
+ACC001,Cinturón cuero negro,Accesorios,20,5,6000.0,11900.0,
+ACC002,Gorra snapback negra,Accesorios,15,5,4500.0,8900.0,
+CUI001,Loción corporal 250ml,Cuidado personal,12,5,3500.0,6500.0,2026-10-21
+CUI002,Perfume Progresiva 100ml,Cuidado personal,9,3,15000.0,27900.0,2026-10-23
+CUI003,Crema limpiadora de cuero,Cuidado personal,25,6,2800.0,5500.0,2027-08-01
